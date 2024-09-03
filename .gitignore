@@ -13,3 +13,4 @@ data/GOOG_historical_data_cleaned.csv
 data/META_historical_data_cleaned.csv
 data/MSFT_historical_data_cleaned.csv
 data/NVDA_historical_data_cleaned.csv
+data/raw_analyst_ratings.csv

@@ -6,3 +6,10 @@ data/META_historical_data.csv
 data/MSFT_historical_data.csv
 data/NVDA_historical_data.csv
 data/TSLA_historical_data.csv
+data/TSLA_historical_data_cleaned.csv
+data/AAPL_historical_data_cleaned.csv
+data/AMZN_historical_data_cleaned.csv
+data/GOOG_historical_data_cleaned.csv
+data/META_historical_data_cleaned.csv
+data/MSFT_historical_data_cleaned.csv
+data/NVDA_historical_data_cleaned.csv
